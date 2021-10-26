@@ -67,3 +67,16 @@ function promptUser(){
         }
     ]);
 } 
+async function init() {
+    try {
+        const answers = await promptUser();
+        const generateContent = generateReadme(answers);
+        
+        await writeFileAsync('./README.md', generateContent);
+        console.log('Successfully generated README.md');
+    }   catch(err) {
+        console.log(err);
+    }
+  }
+  
+  init();  
