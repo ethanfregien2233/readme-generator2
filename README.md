@@ -1,8 +1,10 @@
 
-<h1 align="center">Project</h1>
+<h1 align="center">Readme generator</h1>
+
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-This is a project
+A site to generate professional readmes
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -12,21 +14,21 @@ This is a project
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-none
+Node
 ## Usage
-pro
+To generate readmes
 ## License
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the ISC license. 
 ## Contributing
-k'
+Ethan
 ## Tests
-k
+no
 ## Questions
-k<br />
+contact me<br />
 <br />
-:octocat: Find me on GitHub: [jk](https://github.com/jk)<br />
+:octocat: Find me on GitHub: [ethanfregien2233](https://github.com/ethanfregien2233)<br />
 <br />
-Email me with any questions: j<br /><br />
+Email me with any questions: gmail@gmail.com<br /><br />
   
