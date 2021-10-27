@@ -72,7 +72,7 @@ async function init() {
         const answers = await promptUser();
         const generateContent = generateReadme(answers);
         
-        await writeFileAsync('./README.md', generateContent);
+        await writeFileAsync('./dist/README.md', generateContent);
         console.log('Successfully generated README.md');
     }   catch(err) {
         console.log(err);
