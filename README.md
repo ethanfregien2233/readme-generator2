@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-A site to generate professional readmes
+This is my Node.js application designed to generate README files by using a command-line application to capture user input for their own Readme file. Link for walkthrough of application: <a href="./test.mp4" >
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -14,9 +14,9 @@ A site to generate professional readmes
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Node
+To use this application you must have command line installed.
 ## Usage
-To generate readmes
+This application can be used for any project readmes.
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
 <br />
@@ -24,7 +24,7 @@ This application is covered by the ISC license.
 ## Contributing
 Ethan
 ## Tests
-no
+To test, run node index.js from the command line
 ## Questions
 contact me<br />
 <br />
