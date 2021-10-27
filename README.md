@@ -4,7 +4,7 @@
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-This is my Node.js application designed to generate README files by using a command-line application to capture user input for their own Readme file. Link for walkthrough of application: <a href="./test.mp4" >
+This is my Node.js application designed to generate README files by using a command-line application to capture user input for their own Readme file. Link for walkthrough of application: https://watch.screencastify.com/v/1WDqmMqA945B1uRehQtc
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
